@@ -1,5 +1,5 @@
-title: Slate theme
-description: Slate is a theme for GitHub Pages.
-show_downloads: true
+title: Scenic and Gazebo
+description: This is a tutorial website for using Scenic-Gazebo interface.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
